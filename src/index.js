@@ -1,12 +1,9 @@
 import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
-// import Hello from './Hello'
-import Card from './components/Card'
 import reportWebVitals from './reportWebVitals';
 // npm install tachyons
-import 'tachyons'
+import 'tachyons';
 // if not exporting default, need to destructure
 // import {robots} from './robots'
 // import CardList from './CardList'
@@ -20,7 +17,7 @@ import RoboApp from './containers/RoboApp.js'
 //   </React.StrictMode>,
 //   document.getElementById('root')
 // );
-import * as serviceWorker from './service-worker';
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 //redux
 import {Provider} from 'react-redux';
 import { searchRobots, requestRobots } from './reducers';
@@ -56,4 +53,4 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-serviceWorker.register();
+serviceWorkerRegistration.register();

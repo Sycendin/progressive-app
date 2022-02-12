@@ -1,4 +1,4 @@
-import react, { Fragment } from "react";
+import React, { Fragment } from "react";
 
 const Scroll = (props) =>{
     return(
