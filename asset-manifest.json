@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/progressive-app/static/css/main.d414d04d.css",
-    "main.js": "/progressive-app/static/js/main.ac750f46.js",
+    "main.css": "/progressive-app/static/css/main.eae3a888.css",
+    "main.js": "/progressive-app/static/js/main.ac2038c9.js",
     "static/js/787.32032a02.chunk.js": "/progressive-app/static/js/787.32032a02.chunk.js",
     "service-worker.js": "/progressive-app/service-worker.js",
     "static/media/SEGA.woff": "/progressive-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/progressive-app/index.html",
-    "main.d414d04d.css.map": "/progressive-app/static/css/main.d414d04d.css.map",
-    "main.ac750f46.js.map": "/progressive-app/static/js/main.ac750f46.js.map",
+    "main.eae3a888.css.map": "/progressive-app/static/css/main.eae3a888.css.map",
+    "main.ac2038c9.js.map": "/progressive-app/static/js/main.ac2038c9.js.map",
     "787.32032a02.chunk.js.map": "/progressive-app/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d414d04d.css",
-    "static/js/main.ac750f46.js"
+    "static/css/main.eae3a888.css",
+    "static/js/main.ac2038c9.js"
   ]
 }
