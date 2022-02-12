@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/progressive-app/static/css/main.d414d04d.css",
-    "main.js": "/progressive-app/static/js/main.8d357eb6.js",
+    "main.js": "/progressive-app/static/js/main.ac750f46.js",
     "static/js/787.32032a02.chunk.js": "/progressive-app/static/js/787.32032a02.chunk.js",
     "service-worker.js": "/progressive-app/service-worker.js",
     "static/media/SEGA.woff": "/progressive-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/progressive-app/index.html",
     "main.d414d04d.css.map": "/progressive-app/static/css/main.d414d04d.css.map",
-    "main.8d357eb6.js.map": "/progressive-app/static/js/main.8d357eb6.js.map",
+    "main.ac750f46.js.map": "/progressive-app/static/js/main.ac750f46.js.map",
     "787.32032a02.chunk.js.map": "/progressive-app/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d414d04d.css",
-    "static/js/main.8d357eb6.js"
+    "static/js/main.ac750f46.js"
   ]
 }
