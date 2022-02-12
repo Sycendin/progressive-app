@@ -20,7 +20,7 @@ import RoboApp from './containers/RoboApp.js'
 //   </React.StrictMode>,
 //   document.getElementById('root')
 // );
-
+import * as serviceWorker from './service-worker';
 //redux
 import {Provider} from 'react-redux';
 import { searchRobots, requestRobots } from './reducers';
@@ -56,3 +56,4 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+serviceWorker.register();
